@@ -1,0 +1,25 @@
+{
+  "name": "doyouknowme",
+  "version": "1.0.0",
+  "description": "markOne",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajashree23/DoYouKnowMe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "chalk": "^4.1.0",
+    "node-fetch": "^3.2.6",
+    "readline-sync": "^1.4.10"
+  },
+  "bugs": {
+    "url": "https://github.com/rajashree23/DoYouKnowMe/issues"
+  },
+  "homepage": "https://github.com/rajashree23/DoYouKnowMe#readme"
+}
