@@ -1,4 +1,4 @@
-# DoYouKnowMe
+# do-you-know-me-cli-app
 
 It's a CLI app that would ask you 5 questions about Rajashree! Are you ready to test yourself? :)
 
